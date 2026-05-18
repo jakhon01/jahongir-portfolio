@@ -1,5 +1,4 @@
 # jahongir-portfolio
-# jahongir-portfolio
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FFFFFF&width=500&lines=this+is+my+portfolio;learning+frontend+development;building+projects+step+by+step" alt="Typing SVG" />
